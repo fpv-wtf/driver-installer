@@ -4,7 +4,7 @@ This application automatically installs several **DJI FPV System** related drive
 The full list is:
 
  - a [libusb-win32](https://sourceforge.net/projects/libusb-win32/) driver (and the required libusbK.dll) for the bootrom recovery interface
- - The [Google Kedacom Android KDB Interface](https://drivers.softpedia.com/get/MOBILES/Google/Google-Kedacom-KDB-Interface-Driver-11000-for-Windows-10.shtml) drivers for the fastboot 
+ - The [Google Kedacom Android KDB Interface](https://drivers.softpedia.com/get/MOBILES/Google/Google-Kedacom-KDB-Interface-Driver-11000-for-Windows-10.shtml) drivers for fastboot firmware flashing
  - A WinUSB driver for the Goggles RMVT Video Out interface for browser compatibility
 
 ### Usage
