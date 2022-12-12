@@ -1,4 +1,4 @@
-# The fpv.wtf driver installer
+# The fpv.wtf Driver Installer
 This application automatically installs several **DJI FPV System** related drivers on your **Windows PC**. It is required for using certain fpv.wtf published applications such as [butter](https://github.com/fpv-wtf/butter).
 
 The full list is:
