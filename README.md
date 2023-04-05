@@ -19,5 +19,4 @@ make
 ### Todo
 
  - Make subsequent runs clean up previously installed drivers
- - Handle plugged in devices like wdi-simple does
  - Enable a clean GH Actions build and release
